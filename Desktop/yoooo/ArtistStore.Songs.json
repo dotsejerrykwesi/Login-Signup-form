@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64b13c6036892092578b005a"
+  },
+  "title": "Dembele",
+  "artist_id": "ObjectId('64b0da5b02ff02b240718275')",
+  "album_id": "ObjectId('64b0e41702ff02b240718280')",
+  "duration": 254,
+  "release_date": "2021-09-16T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "64b13efa36892092578b005e"
+  },
+  "title": "Only me",
+  "artist_id": "ObjectId('64b0daf802ff02b24071828277')",
+  "album_id": "ObjectId(64b0e63d02ff02b240718282')",
+  "duration": 236,
+  "release_date": "2010-08-16T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "64b140f136892092578b0060"
+  },
+  "title": "Keep going hard",
+  "artist_id": "ObjectId('64b0db7102ff02b240718279')",
+  "album_id": "ObjectId('64b0e82002ff0b240718284')",
+  "duration": 278,
+  "released_date": "2013-05-15T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "64b1435136892092578b0062"
+  },
+  "title": "I got the keys",
+  "artist_id": "ObjectId('64b0dbf402ff02b24071827b')",
+  "album_id": "ObjectId('64b0e9e102ff02b240718286')",
+  "duration": 258,
+  "release_date": "2013-09-11T00:00:00Z"
+}]

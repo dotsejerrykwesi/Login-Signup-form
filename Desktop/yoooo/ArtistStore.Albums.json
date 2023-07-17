@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64b0e41702ff02b240718280"
+  },
+  "title": "HotTea",
+  "artist_id": "ObjectId('64b0da5b02ff02b240718275')",
+  "release_date": "2023-07-14T00:00:00Z",
+  "genre": "Pop/Rock"
+},
+{
+  "_id": {
+    "$oid": "64b0e63d02ff02b240718282"
+  },
+  "title": "21",
+  "artist_id": "ObjectId('64b0daf802ff02b240718277')",
+  "release_date": "2011-09-17T00:00:00Z",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b0e82002ff02b240718284"
+  },
+  "title": "Winner",
+  "artist_id": "ObjectId('64b0db7102ff02b240718279')",
+  "release_date": "2013-06-19T00:00:00Z",
+  "genre": "Rock"
+},
+{
+  "_id": {
+    "$oid": "64b0e9e102ff02b240718286"
+  },
+  "title": "Lay",
+  "artist_id": "ObjectId('64b0dbf402ff02b24071827b')",
+  "release_date": "2014-07-11T00-00-00Z",
+  "genre": "Pop"
+}]

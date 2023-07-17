@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "64b0da5b02ff02b240718275"
+  },
+  "name": "Real",
+  "genre": "Pop/Rock",
+  "country": "United States"
+},
+{
+  "_id": {
+    "$oid": "64b0daf802ff02b240718277"
+  },
+  "name": "Obidi",
+  "genre": "Pop",
+  "country": "Ghana"
+},
+{
+  "_id": {
+    "$oid": "64b0db7102ff02b240718279"
+  },
+  "name": "2baba",
+  "genre": "Rock",
+  "country": "Nigeria"
+},
+{
+  "_id": {
+    "$oid": "64b0dbf402ff02b24071827b"
+  },
+  "name": "Cyan",
+  "genre": "Pop",
+  "country": "Sweden"
+}]
